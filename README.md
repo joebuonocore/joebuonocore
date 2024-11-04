@@ -9,5 +9,6 @@ I freelanced professionally for five years before founding [Albright Labs](https
 - 🌱 I'm also learning more about Docker
 - 🤝 I'm interested in collaborating on [October CMS](https://octobercms.com) projects
 - 🤔 I'm looking for help with SaaS marketing
+- 🏂 Ask me about snowboarding
 - 📫 Email me [joe@albrightlabs.com](mailto:joe@albrightlabs.com)
-- 💡 Fun facts: I snowboard, play guitar, and have a jug pup named Edgar Allen Poe
+- 💡 Fun facts: I play guitar, have a jug pup named Edgar Allen Poe, and was [featured online here](https://octobercms.com/blog/post/albright-labs-why-we-switched-october-cms-and-never-looked-back)
