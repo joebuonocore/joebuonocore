@@ -2,16 +2,16 @@
 
 Founder & CEO of [Albright Labs](https://albrightlabs.com)--a software agency, AI automation consultancy, and micro-SaaS studio based in PA.
 
-We build custom software, AI-powered workflows, and internal tools for associations, membership organizations, and mid-market companies. Clients include IAFF, NYSFDA, CXPA, NHA, and Prison Fellowship.
+We build custom software, AI-powered workflows, and internal tools for associations, membership organizations, and mid-market companies.
 
 ## What I'm building
 
 | Product | What it does | Status |
 |---------|-------------|--------|
-| [Pulsey](https://pulsey.app) | Uptime monitoring | Live |
-| [Sendly](https://sendly.app) | Bulk email | Live |
-| [Scanly](https://scanly.app) | QR codes and short links | Live |
-| Billow | Invoicing | In development |
+| [Pulsey](https://pulseyapp.com) | Uptime monitoring | Live |
+| [Sendly](https://sendlyapp.com) | Bulk email | Live |
+| [Scanley](https://scanleyapp.com) | QR codes and short links | Live |
+| Invee | Invoicing | In development |
 | Notery | E-signatures | In development |
 
 ## Stack
